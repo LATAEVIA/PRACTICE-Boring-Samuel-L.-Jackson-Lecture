@@ -1,0 +1,20 @@
+img.intro {
+  width: 500px;
+  margin:0 auto;
+
+}
+a{
+  display: block;
+  text-align: center;
+}
+h2.intro{
+  font-size: 3em;
+  font-family: fantasy;
+  color: #7F5227;
+}
+p.intro {
+  font-style: italic;
+  border: .5px;
+  border-color: #7F5227;
+  border-style: groove;
+}
