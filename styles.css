@@ -18,3 +18,20 @@ p.intro {
   border-color: #7F5227;
   border-style: groove;
 }
+#intropic {
+  width: 500px;
+  margin:0 auto;
+
+}
+
+#sam-l-title {
+  font-size: 3em;
+  font-family: fantasy;
+  color: #7F5227;
+}
+.intro {
+  font-style: italic;
+  border: .5px;
+  border-color: #7F5227;
+  border-style: groove;
+}
